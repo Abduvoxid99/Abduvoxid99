@@ -4,3 +4,7 @@
 - 🌱 I’m currently learning Algorithms and data structures 
 - 💬 Ask me about JavaScript, React, Redux, Vue, Vuex
 - 📫 How to reach me: abduvoxidyuldashev@gmail.com
+
+### Connect with me:
+
+
