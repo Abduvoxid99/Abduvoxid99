@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at Udevs company
 - 🌱 I’m currently learning Algorithms and data structures 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, React, Redux, Vue, VueX **
+- 💬 Ask me about **HTML, CSS, JavaScript, React, React, Redux, Vue, VueX**
 - 📫 How to reach me: abduvoxidyuldashev@gmail.com
 
 <h3 align="left">Connect with me:</h3>
