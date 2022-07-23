@@ -8,6 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
+ <a href="https://t.me/mr_Abdulvohid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Abdulvohid" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abduvoxid-yuldashev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="/abduvoxid-yuldashev/" height="30" width="40" /></a>
 <a href="https://fb.com/abduvoxid.yuldashev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="abduvoxid.yuldashev" height="30" width="40" /></a>
 <a href="https://instagram.com/abduvoxid_yuldashev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abduvoxid_yuldashev" height="30" width="40" /></a>
